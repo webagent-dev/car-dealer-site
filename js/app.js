@@ -69,7 +69,7 @@ const displayCar = ((CreateCar) => {
   // document loaded event
   document.addEventListener('DOMContentLoaded', () => {
     info.innerHTML = ''
-    let data = ''
+    let data = '';
     theCar.forEach((item) => {
       data += `
          <div class="my-3 p-2 d-flex text-capitalize features   align-item-baseline flex-wrap">
