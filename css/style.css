@@ -1,0 +1,183 @@
+.navbar{
+    color: var(--white);
+
+}
+.navbar-icon{
+    font-size: 2rem;
+    color: var( --mainBlue);
+}
+.navbar-toggler{
+    outline-color: var( --mainBlue);
+}
+.nav-link{
+    text-transform: capitalize;
+    color: var( --mainBlue);
+    font-size: 1.5rem;
+}
+.nav-link:hover{
+    color: var(--transBlue);
+}
+.nav-icon{
+    font-size: 1.2rem;
+    text-decoration: none!important;
+    transition: all 2s linear;
+}
+.nav-icon{
+    color: var(--black);
+}
+/* header section */
+.header{
+    color: var(--white);
+    clip-path: polygon(0 0,100% 0,100% 95%,50% 100%,0 95%);
+    overflow: hidden;
+}
+.height-max{
+    min-height: calc(100vh - 90px);
+    background: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url(../image/bg.jpg)center/cover fixed no-repeat;
+    animation-name: zoom;
+    animation-duration: 15s;
+    animation-delay: 8s;
+    animation-iteration-count: infinite;
+
+
+}
+.title-heading{
+    background: rgba(0,0,0,0.7);
+    border-left: 0.3rem solid var(--mainBlue);
+}
+.title{
+    font-weight: 700;
+    font-size: 1.9rem;
+}
+.title-icon{
+    color: var(--mainBlue);
+}
+/* skills */
+.section-title-special{
+    background: var(--transBlue);
+    color: var(--white);
+    padding: 0.5rem 2rem;
+    clip-path: polygon(10% 0,100% 0,90% 100%,0 100%);
+}
+.skills-icon{
+    color: var(--yellow);
+    background: var(--gray);
+    font-size: 3rem;
+}
+.skills-icon:hover{
+    color: var(--yellow);
+}
+.skils-underline{
+    width: 4rem;
+    height: 0.3rem;
+    color: var(--mainBlue);
+    margin: 1rem auto;
+}
+/* inventery section */
+.inventory{
+    background: var(--gray);
+}
+.car-card{
+    border-radius: 0!important;
+}
+.car-image{
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+}
+.car-value{
+    background: var(--mainBlue);
+    color: var(--white);
+    clip-path: polygon(15% 0,85% 0,100% 100%,0 100%);
+    transition: all 0.5s linear;
+}
+.car-value:hover{
+    clip-path: polygon(0 0,100% 0,100% 100%,0 100%);
+}
+/* question section */
+.question{
+    background: url(../image/other-2.jpg)center/cover fixed no-repeat;
+}
+.question-quey{
+    background: rgba(95,109,122,0.75);
+}
+.question-yellow{
+    background: rgba(227,181,5,0.7);
+}
+.question-icon{
+    font-size: 4rem;
+    color: var(--mainBlue);
+    transition: all 0.5s ease-in-out;
+}
+.question-icon:hover{
+    transform: translateY(-10%);  
+    color: var(--mainBlue);
+}
+/* end of question section */
+
+/*  feature section */
+.feature{
+    background: var(--gray);
+}
+.features {
+    background: var(--white);
+    border-radius: 0.5rem;
+    opacity: 0.5;
+    cursor: pointer;
+    transition: all 0.5s ease-in-out;
+    text-align: center;
+}
+.features:hover{
+    opacity: 1;
+    transform: scale(1.05);
+}
+.icons{
+    font-size: 1.5rem;
+    color: var(--yellow);
+    cursor: pointer;
+    transition: all 0.5s ease-in-out;
+}
+.icons:hover{
+color: var(--mainBlue);
+}
+
+.img-container{
+    background: var(--mainBlue);
+    position: relative;
+    overflow: hidden;
+}
+.feature-photo{
+    transition: all 0.5s linear;
+}
+.img-container:hover .feature-photo{
+    opacity: 0.5;
+    transform: scale(1.5);
+}
+.feature-link{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 3rem;
+    transform: translate(-50%,-50%);
+    opacity: 0;
+    transition: all 1s ease-in-out;
+}
+.feature-link:hover{
+    color: var(--white);
+}
+.img-container:hover .feature-link{
+    opacity: 1;
+}
+/* end of feature section */
+/* footer section */
+.footer{
+    background: var(--black);
+}
+.footer-icon{
+    color: var(--yellow);
+    font-size: 1.5rem;
+    transition: all 1s ease-in-out
+}
+.footer-icon:hover{
+    color: var(--mainBlue);
+}
+/* end of footer section */
