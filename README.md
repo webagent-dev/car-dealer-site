@@ -1,5 +1,5 @@
+<div align="center">
 <h3 align="center">Car Dealer website </h3>
-    <img src="user-images.githubusercontent.com/78637825/165221861-76d6ea16-591d-43a2-8978-5612e86bacd3.png" alt="Logo" width="80" height="80" />
 
   <p align="center">
       Car Dealer website is fun project create while learning how to code with Htmc/Css and 
@@ -46,7 +46,10 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
+    
+  <img src="https://user-images.githubusercontent.com/78637825/165221861-76d6ea16-591d-43a2-8978-5612e86bacd3.png" alt="page-image" width="100%" height="100%" >
+  
+  
 short details: `webagent-dev`, `Javascript `, `HTML/CSS`, `webagent24@gmail`, `OPP`,
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -99,10 +102,9 @@ _For more examples, please refer to the [Live Site](https://bigmagicmusic.netlif
 
 - [ ] Smooth scrolling
 - [ ] display cards
-- [ ] transition
+- [ ] transitions
 - [ ]sorting
 - [ ] Shop
-- [ ] Cart
     - [ ] OPP
 
 See the [open issues](https://github.com/webagent-dev/car-dealer-site/issues) for a full list of proposed features (and known issues).
