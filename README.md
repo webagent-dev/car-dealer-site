@@ -75,10 +75,8 @@ text editor of your choice e.g VsCode
 ### Installation
 
 1.  Clone the repository 
-2.open with text editor choice 
-
-3. Install NPM packages
-    open with live-server
+2.  open with text editor choice 
+3.  open with live-server
    
 
 <p align="right">(<a href="#top">back to top</a>)</p>
