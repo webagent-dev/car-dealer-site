@@ -1,7 +1,6 @@
 <h3 align="center">Car Dealer website </h3>
-  <a href="https://github.com/github_username/webagent-dev">
-    <img src="user-images.githubusercontent.com/78637825/165221861-76d6ea16-591d-43a2-8978-5612e86bacd3.png" alt="Logo" width="80" height="80">
-  </a>
+    <img src="user-images.githubusercontent.com/78637825/165221861-76d6ea16-591d-43a2-8978-5612e86bacd3.png" alt="Logo" width="80" height="80" />
+
   <p align="center">
       Car Dealer website is fun project create while learning how to code with Htmc/Css and 
   javascript i used OPP programming paradigm to add a lot of unique features, it a complete project where user can sort and different type car model
