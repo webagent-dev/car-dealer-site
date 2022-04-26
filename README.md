@@ -6,9 +6,9 @@
   javascript i used OPP programming paradigm to add a lot of unique features, it a complete project where user can sort and different type car model
     with sorting capa
     <br />
-    <a href="https://bigmagicmusic.netlify.app/">Live Site</a>
+    <a href="https://car-dealer-site.netlify.app">Live Site</a>
     ·
-    <a href="https://github.com/webagent-dev/big-magic-music/issues">Report Bug</a>
+    <a href="https://github.com/webagent-dev/car-dealer-site/issues">Report Bug</a>
     ·
 
   </p>
